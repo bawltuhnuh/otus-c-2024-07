@@ -1,0 +1,14 @@
+--- a/src/common/clib-package.c	2025-02-08 16:31:17.000000000 +0300
++++ b/src/common/clib-package.c	2025-03-02 00:56:52.127497754 +0300
+@@ -667,6 +667,11 @@
+       json = res->data;
+       _debug("status: %d", res->status);
+       if (!res || !res->ok) {
++        if (res) {
++          http_get_free(res);
++          res = NULL;
++          json = NULL;
++        }
+         goto download;
+       }
+       log = "fetch";

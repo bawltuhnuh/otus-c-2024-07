@@ -1,0 +1,12 @@
+--- a/deps/hash/hash.c	2020-09-08 03:51:24.000000000 +0300
++++ b/deps/hash/hash.c	2025-03-02 00:37:46.439502125 +0300
+@@ -15,6 +15,9 @@
+ hash_set(hash_t *self, char *key, void *val) {
+   int ret;
+   khiter_t k = kh_put(ptr, self, key, &ret);
++  if (ret == 0) {
++    free(key);
++  }
+   kh_value(self, k) = val;
+ }
+ 
