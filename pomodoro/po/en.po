@@ -1,0 +1,99 @@
+# English translations for otus-c package.
+# Copyright (C) 2025 THE otus-c'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the otus-c package.
+# user <yaroslavceva_sasha@mail.ru>, 2025.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: otus-c 2024-07\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-06-15 20:49+0300\n"
+"PO-Revision-Date: 2025-06-15 13:05+0300\n"
+"Last-Translator: user <yaroslavceva_sasha@mail.ru>\n"
+"Language-Team: English\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: src/main_window.c:25 src/main - копия.c:72
+msgid "Work time!"
+msgstr "Work time!"
+
+#: src/main_window.c:25 src/main - копия.c:72
+msgid "Break time!"
+msgstr "Break time!"
+
+#: src/main_window.c:35 src/main - копия.c:82
+msgid "Work"
+msgstr "Work"
+
+#: src/main_window.c:35 src/main - копия.c:82
+msgid "Break"
+msgstr "Break"
+
+#: src/main_window.c:55 src/main_window.c:112 src/main - копия.c:92
+#: копия.c:294
+msgid "Start"
+msgstr "Start"
+
+#: src/main_window.c:61 src/main - копия.c:98
+msgid "Stop"
+msgstr "Stop"
+
+#: src/main_window.c:87 src/main - копия.c:236
+msgid "The language changes will take effect after the restart. Restart now?"
+msgstr "The language changes will take effect after the restart. Restart now?"
+
+#: src/main_window.c:106 src/main - копия.c:290
+msgid "Settings"
+msgstr "Settings"
+
+#: src/main_window.c:118 src/main - копия.c:298
+msgid "Ready"
+msgstr "Ready"
+
+#: src/main_window.c:139 src/main - копия.c:305
+msgid "Work duration:"
+msgstr "Work duration:"
+
+#: src/main_window.c:151 src/main - копия.c:314
+msgid "Break duration:"
+msgstr "Break duration:"
+
+#: src/main_window.c:161 src/main - копия.c:321
+msgid "Notification sound"
+msgstr "Notification sound"
+
+#: src/main_window.c:169 src/main - копия.c:326
+msgid "Language:"
+msgstr "Language:"
+
+#: src/main_window.c:181 src/main - копия.c:340
+msgid "Add to autostart"
+msgstr "Add to autostart"
+
+#: src/main_window.c:188 src/main - копия.c:343
+msgid "Sound file:"
+msgstr "Sound file:"
+
+#: src/main_window.c:189 src/main - копия.c:344
+msgid "Select sound"
+msgstr "Select sound"
+
+#: src/main_window.c:275
+msgid "Timer"
+msgstr "Timer"
+
+#: src/main_window.c:276
+msgid "Notification"
+msgstr "Notification"
+
+#: src/main_window.c:277
+msgid "Misc"
+msgstr "Misc"
+
+#: src/main_window.c:333 src/main - копия.c:118
+msgid "Quit"
+msgstr "Quit"

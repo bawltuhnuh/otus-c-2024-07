@@ -1,0 +1,99 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-06-15 20:49+0300\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=CHARSET\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: src/main_window.c:25 src/main - копия.c:72
+msgid "Work time!"
+msgstr ""
+
+#: src/main_window.c:25 src/main - копия.c:72
+msgid "Break time!"
+msgstr ""
+
+#: src/main_window.c:35 src/main - копия.c:82
+msgid "Work"
+msgstr ""
+
+#: src/main_window.c:35 src/main - копия.c:82
+msgid "Break"
+msgstr ""
+
+#: src/main_window.c:55 src/main_window.c:112 src/main - копия.c:92
+#: src/main - копия.c:294
+msgid "Start"
+msgstr ""
+
+#: src/main_window.c:61 src/main - копия.c:98
+msgid "Stop"
+msgstr ""
+
+#: src/main_window.c:87 src/main - копия.c:236
+msgid "The language changes will take effect after the restart. Restart now?"
+msgstr ""
+
+#: src/main_window.c:106 src/main - копия.c:290
+msgid "Settings"
+msgstr ""
+
+#: src/main_window.c:118 src/main - копия.c:298
+msgid "Ready"
+msgstr ""
+
+#: src/main_window.c:139 src/main - копия.c:305
+msgid "Work duration:"
+msgstr ""
+
+#: src/main_window.c:151 src/main - копия.c:314
+msgid "Break duration:"
+msgstr ""
+
+#: src/main_window.c:161 src/main - копия.c:321
+msgid "Notification sound"
+msgstr ""
+
+#: src/main_window.c:169 src/main - копия.c:326
+msgid "Language:"
+msgstr ""
+
+#: src/main_window.c:181 src/main - копия.c:340
+msgid "Add to autostart"
+msgstr ""
+
+#: src/main_window.c:188 src/main - копия.c:343
+msgid "Sound file:"
+msgstr ""
+
+#: src/main_window.c:189 src/main - копия.c:344
+msgid "Select sound"
+msgstr ""
+
+#: src/main_window.c:275
+msgid "Timer"
+msgstr ""
+
+#: src/main_window.c:276
+msgid "Notification"
+msgstr ""
+
+#: src/main_window.c:277
+msgid "Misc"
+msgstr ""
+
+#: src/main_window.c:333 src/main - копия.c:118
+msgid "Quit"
+msgstr ""
