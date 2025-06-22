@@ -1,0 +1,1037 @@
+newfstatat(AT_FDCWD, "/proc/3863", {st_mode=S_IFDIR|0555, st_size=0, ...}, 0) = 0
+openat(AT_FDCWD, "/proc/3863/stat", O_RDONLY) = 7
+read(7, "3863 (yandex_browser) S 3195 304"..., 1024) = 337
+close(7)                                = 0
+openat(AT_FDCWD, "/proc/3863/statm", O_RDONLY) = 7
+read(7, "303182518 26786 24309 47967 0 18"..., 1024) = 39
+close(7)                                = 0
+newfstatat(AT_FDCWD, "/proc/3870", {st_mode=S_IFDIR|0555, st_size=0, ...}, 0) = 0
+openat(AT_FDCWD, "/proc/3870/stat", O_RDONLY) = 7
+read(7, "3870 (yandex_browser) S 3195 304"..., 1024) = 339
+close(7)                                = 0
+openat(AT_FDCWD, "/proc/3870/statm", O_RDONLY) = 7
+read(7, "303193044 37922 28057 47967 0 21"..., 1024) = 39
+close(7)                                = 0
+newfstatat(AT_FDCWD, "/proc/4072", {st_mode=S_IFDIR|0555, st_size=0, ...}, 0) = 0
+openat(AT_FDCWD, "/proc/4072/stat", O_RDONLY) = 7
+read(7, "4072 (WebExtensions) S 3054 3054"..., 1024) = 331
+close(7)                                = 0
+openat(AT_FDCWD, "/proc/4072/statm", O_RDONLY) = 7
+read(7, "599772 13254 12176 154 0 14457 0"..., 1024) = 33
+close(7)                                = 0
+newfstatat(AT_FDCWD, "/proc/4205", {st_mode=S_IFDIR|0555, st_size=0, ...}, 0) = 0
+openat(AT_FDCWD, "/proc/4205/stat", O_RDONLY) = 7
+read(7, "4205 (Web Content) S 3054 3054 3"..., 1024) = 327
+close(7)                                = 0
+openat(AT_FDCWD, "/proc/4205/statm", O_RDONLY) = 7
+read(7, "597753 15916 12348 154 0 12998 0"..., 1024) = 33
+close(7)                                = 0
+newfstatat(AT_FDCWD, "/proc/4410", {st_mode=S_IFDIR|0555, st_size=0, ...}, 0) = 0
+openat(AT_FDCWD, "/proc/4410/stat", O_RDONLY) = 7
+read(7, "4410 (gnome-keyring-d) S 1 2932 "..., 1024) = 316
+close(7)                                = 0
+openat(AT_FDCWD, "/proc/4410/statm", O_RDONLY) = 7
+read(7, "60439 2112 1906 157 0 6445 0\n", 1024) = 29
+close(7)                                = 0
+newfstatat(AT_FDCWD, "/proc/4553", {st_mode=S_IFDIR|0555, st_size=0, ...}, 0) = 0
+openat(AT_FDCWD, "/proc/4553/stat", O_RDONLY) = 7
+read(7, "4553 (yandex_browser) S 3048 304"..., 1024) = 335
+close(7)                                = 0
+openat(AT_FDCWD, "/proc/4553/statm", O_RDONLY) = 7
+read(7, "8609101 33211 27012 47967 0 1893"..., 1024) = 36
+close(7)                                = 0
+newfstatat(AT_FDCWD, "/proc/4710", {st_mode=S_IFDIR|0555, st_size=0, ...}, 0) = 0
+openat(AT_FDCWD, "/proc/4710/stat", O_RDONLY) = 7
+read(7, "4710 (yandex_browser) S 3195 304"..., 1024) = 335
+close(7)                                = 0
+openat(AT_FDCWD, "/proc/4710/statm", O_RDONLY) = 7
+read(7, "8621886 21071 7338 47967 0 42572"..., 1024) = 35
+close(7)                                = 0
+newfstatat(AT_FDCWD, "/proc/4725", {st_mode=S_IFDIR|0555, st_size=0, ...}, 0) = 0
+openat(AT_FDCWD, "/proc/4725/stat", O_RDONLY) = 7
+read(7, "4725 (x-terminal-emul) R 2855 47"..., 1024) = 348
+close(7)                                = 0
+openat(AT_FDCWD, "/proc/4725/statm", O_RDONLY) = 7
+read(7, "174044 20687 14209 5 0 18301 0\n", 1024) = 31
+close(7)                                = 0
+newfstatat(AT_FDCWD, "/proc/4841", {st_mode=S_IFDIR|0555, st_size=0, ...}, 0) = 0
+openat(AT_FDCWD, "/proc/4841/stat", O_RDONLY) = 7
+read(7, "4841 (firefox) S 1 4840 4840 0 -"..., 1024) = 335
+close(7)                                = 0
+openat(AT_FDCWD, "/proc/4841/statm", O_RDONLY) = 7
+read(7, "811806 82446 37314 121 0 114633 "..., 1024) = 34
+close(7)                                = 0
+newfstatat(AT_FDCWD, "/proc/4921", {st_mode=S_IFDIR|0555, st_size=0, ...}, 0) = 0
+openat(AT_FDCWD, "/proc/4921/stat", O_RDONLY) = 7
+read(7, "4921 (Socket Process) S 4841 484"..., 1024) = 329
+close(7)                                = 0
+openat(AT_FDCWD, "/proc/4921/statm", O_RDONLY) = 7
+read(7, "57056 6440 4234 121 0 3510 0\n", 1024) = 29
+close(7)                                = 0
+newfstatat(AT_FDCWD, "/proc/4941", {st_mode=S_IFDIR|0555, st_size=0, ...}, 0) = 0
+openat(AT_FDCWD, "/proc/4941/stat", O_RDONLY) = 7
+read(7, "4941 (Privileged Cont) S 4841 48"..., 1024) = 335
+close(7)                                = 0
+openat(AT_FDCWD, "/proc/4941/statm", O_RDONLY) = 7
+read(7, "619973 24880 14948 121 0 19815 0"..., 1024) = 33
+close(7)                                = 0
+newfstatat(AT_FDCWD, "/proc/4947", {st_mode=S_IFDIR|0555, st_size=0, ...}, 0) = 0
+openat(AT_FDCWD, "/proc/4947/stat", O_RDONLY) = 7
+read(7, "4947 (RDD Process) S 4841 4840 4"..., 1024) = 333
+close(7)                                = 0
+openat(AT_FDCWD, "/proc/4947/statm", O_RDONLY) = 7
+read(7, "96099 7244 4431 121 0 14735 0\n", 1024) = 30
+close(7)                                = 0
+newfstatat(AT_FDCWD, "/proc/4990", {st_mode=S_IFDIR|0555, st_size=0, ...}, 0) = 0
+openat(AT_FDCWD, "/proc/4990/stat", O_RDONLY) = 7
+read(7, "4990 (WebExtensions) S 4841 4840"..., 1024) = 334
+close(7)                                = 0
+openat(AT_FDCWD, "/proc/4990/statm", O_RDONLY) = 7
+read(7, "618016 17815 12929 121 0 17396 0"..., 1024) = 33
+close(7)                                = 0
+newfstatat(AT_FDCWD, "/proc/5046", {st_mode=S_IFDIR|0555, st_size=0, ...}, 0) = 0
+openat(AT_FDCWD, "/proc/5046/stat", O_RDONLY) = 7
+read(7, "5046 (Utility Process) S 4841 48"..., 1024) = 331
+close(7)                                = 0
+openat(AT_FDCWD, "/proc/5046/statm", O_RDONLY) = 7
+read(7, "96355 7490 4648 121 0 14992 0\n", 1024) = 30
+close(7)                                = 0
+newfstatat(AT_FDCWD, "/proc/5087", {st_mode=S_IFDIR|0555, st_size=0, ...}, 0) = 0
+openat(AT_FDCWD, "/proc/5087/stat", O_RDONLY) = 7
+read(7, "5087 (Isolated Web Co) S 4841 48"..., 1024) = 348
+close(7)                                = 0
+openat(AT_FDCWD, "/proc/5087/statm", O_RDONLY) = 7
+read(7, "679779 57364 19261 121 0 69501 0"..., 1024) = 33
+close(7)                                = 0
+newfstatat(AT_FDCWD, "/proc/5122", {st_mode=S_IFDIR|0555, st_size=0, ...}, 0) = 0
+openat(AT_FDCWD, "/proc/5122/stat", O_RDONLY) = 7
+read(7, "5122 (Web Content) S 4841 4840 4"..., 1024) = 333
+close(7)                                = 0
+openat(AT_FDCWD, "/proc/5122/statm", O_RDONLY) = 7
+read(7, "607834 13801 10561 121 0 7820 0\n", 1024) = 32
+close(7)                                = 0
+newfstatat(AT_FDCWD, "/proc/5124", {st_mode=S_IFDIR|0555, st_size=0, ...}, 0) = 0
+openat(AT_FDCWD, "/proc/5124/stat", O_RDONLY) = 7
+read(7, "5124 (Web Content) S 4841 4840 4"..., 1024) = 332
+close(7)                                = 0
+openat(AT_FDCWD, "/proc/5124/statm", O_RDONLY) = 7
+read(7, "607834 13664 10443 121 0 7822 0\n", 1024) = 32
+close(7)                                = 0
+newfstatat(AT_FDCWD, "/proc/5130", {st_mode=S_IFDIR|0555, st_size=0, ...}, 0) = 0
+openat(AT_FDCWD, "/proc/5130/stat", O_RDONLY) = 7
+read(7, "5130 (Web Content) S 4841 4840 4"..., 1024) = 327
+close(7)                                = 0
+openat(AT_FDCWD, "/proc/5130/statm", O_RDONLY) = 7
+read(7, "607834 13565 10356 121 0 7819 0\n", 1024) = 32
+close(7)                                = 0
+newfstatat(AT_FDCWD, "/proc/6198", {st_mode=S_IFDIR|0555, st_size=0, ...}, 0) = 0
+openat(AT_FDCWD, "/proc/6198/stat", O_RDONLY) = 7
+read(7, "6198 (bash) S 4725 6198 6198 348"..., 1024) = 332
+close(7)                                = 0
+openat(AT_FDCWD, "/proc/6198/statm", O_RDONLY) = 7
+read(7, "2063 1151 737 193 0 438 0\n", 1024) = 26
+close(7)                                = 0
+newfstatat(AT_FDCWD, "/proc/6201", {st_mode=S_IFDIR|0555, st_size=0, ...}, 0) = 0
+openat(AT_FDCWD, "/proc/6201/stat", O_RDONLY) = 7
+read(7, "6201 (sudo) S 6198 6201 6198 348"..., 1024) = 180
+close(7)                                = 0
+openat(AT_FDCWD, "/proc/6201/statm", O_RDONLY) = 7
+read(7, "5088 1481 1207 46 0 217 0\n", 1024) = 26
+close(7)                                = 0
+newfstatat(AT_FDCWD, "/proc/6202", {st_mode=S_IFDIR|0555, st_size=0, ...}, 0) = 0
+openat(AT_FDCWD, "/proc/6202/stat", O_RDONLY) = 7
+read(7, "6202 (bash) S 6201 6202 6198 348"..., 1024) = 191
+close(7)                                = 0
+openat(AT_FDCWD, "/proc/6202/statm", O_RDONLY) = 7
+read(7, "1800 869 727 193 0 175 0\n", 1024) = 25
+close(7)                                = 0
+newfstatat(AT_FDCWD, "/proc/7797", {st_mode=S_IFDIR|0555, st_size=0, ...}, 0) = 0
+openat(AT_FDCWD, "/proc/7797/stat", O_RDONLY) = 7
+read(7, "7797 (dion) S 3049 3049 3049 0 -"..., 1024) = 325
+close(7)                                = 0
+openat(AT_FDCWD, "/proc/7797/statm", O_RDONLY) = 7
+read(7, "8591041 28739 23448 32780 0 2249"..., 1024) = 36
+close(7)                                = 0
+newfstatat(AT_FDCWD, "/proc/7845", {st_mode=S_IFDIR|0555, st_size=0, ...}, 0) = 0
+openat(AT_FDCWD, "/proc/7845/stat", O_RDONLY) = 7
+read(7, "7845 (yandex_browser) S 3195 304"..., 1024) = 345
+close(7)                                = 0
+openat(AT_FDCWD, "/proc/7845/statm", O_RDONLY) = 7
+read(7, "303672975 67326 30729 47967 0 29"..., 1024) = 39
+close(7)                                = 0
+newfstatat(AT_FDCWD, "/proc/9098", {st_mode=S_IFDIR|0555, st_size=0, ...}, 0) = 0
+openat(AT_FDCWD, "/proc/9098/stat", O_RDONLY) = 7
+read(7, "9098 (gvfs-udisks2-vo) S 1 2932 "..., 1024) = 322
+close(7)                                = 0
+openat(AT_FDCWD, "/proc/9098/statm", O_RDONLY) = 7
+read(7, "125610 3156 2580 23 0 12938 0\n", 1024) = 30
+close(7)                                = 0
+newfstatat(AT_FDCWD, "/proc/9106", {st_mode=S_IFDIR|0555, st_size=0, ...}, 0) = 0
+openat(AT_FDCWD, "/proc/9106/stat", O_RDONLY) = 7
+read(7, "9106 (gvfsd-trash) S 3301 2932 2"..., 1024) = 315
+close(7)                                = 0
+openat(AT_FDCWD, "/proc/9106/statm", O_RDONLY) = 7
+read(7, "78193 2002 1723 6 0 8589 0\n", 1024) = 27
+close(7)                                = 0
+newfstatat(AT_FDCWD, "/proc/9126", {st_mode=S_IFDIR|0555, st_size=0, ...}, 0) = 0
+openat(AT_FDCWD, "/proc/9126/stat", O_RDONLY) = 7
+read(7, "9126 (dconf-service) S 1 2932 29"..., 1024) = 316
+close(7)                                = 0
+openat(AT_FDCWD, "/proc/9126/statm", O_RDONLY) = 7
+read(7, "39208 1442 1294 10 0 4334 0\n", 1024) = 28
+close(7)                                = 0
+newfstatat(AT_FDCWD, "/proc/9550", {st_mode=S_IFDIR|0555, st_size=0, ...}, 0) = 0
+openat(AT_FDCWD, "/proc/9550/stat", O_RDONLY) = 7
+read(7, "9550 (fly-thumbnails-) S 1 2932 "..., 1024) = 328
+close(7)                                = 0
+openat(AT_FDCWD, "/proc/9550/statm", O_RDONLY) = 7
+read(7, "37270 2862 2459 13 0 2384 0\n", 1024) = 28
+close(7)                                = 0
+newfstatat(AT_FDCWD, "/proc/10412", {st_mode=S_IFDIR|0555, st_size=0, ...}, 0) = 0
+openat(AT_FDCWD, "/proc/10412/stat", O_RDONLY) = 7
+read(7, "10412 (dio/dm-2) I 2 0 0 0 -1 69"..., 1024) = 161
+close(7)                                = 0
+openat(AT_FDCWD, "/proc/10412/statm", O_RDONLY) = 7
+read(7, "0 0 0 0 0 0 0\n", 1024)        = 14
+close(7)                                = 0
+newfstatat(AT_FDCWD, "/proc/10829", {st_mode=S_IFDIR|0555, st_size=0, ...}, 0) = 0
+openat(AT_FDCWD, "/proc/10829/stat", O_RDONLY) = 7
+read(7, "10829 (yandex_browser) S 3195 30"..., 1024) = 341
+close(7)                                = 0
+openat(AT_FDCWD, "/proc/10829/statm", O_RDONLY) = 7
+read(7, "303198985 80358 29959 47967 0 29"..., 1024) = 39
+close(7)                                = 0
+newfstatat(AT_FDCWD, "/proc/10843", {st_mode=S_IFDIR|0555, st_size=0, ...}, 0) = 0
+openat(AT_FDCWD, "/proc/10843/stat", O_RDONLY) = 7
+read(7, "10843 (yandex_browser) S 3195 30"..., 1024) = 341
+close(7)                                = 0
+openat(AT_FDCWD, "/proc/10843/statm", O_RDONLY) = 7
+read(7, "303196625 79592 29588 47967 0 29"..., 1024) = 39
+close(7)                                = 0
+newfstatat(AT_FDCWD, "/proc/12433", {st_mode=S_IFDIR|0555, st_size=0, ...}, 0) = 0
+openat(AT_FDCWD, "/proc/12433/stat", O_RDONLY) = 7
+read(7, "12433 (yandex_browser) S 3195 30"..., 1024) = 341
+close(7)                                = 0
+openat(AT_FDCWD, "/proc/12433/statm", O_RDONLY) = 7
+read(7, "303196369 78960 29489 47967 0 29"..., 1024) = 39
+close(7)                                = 0
+newfstatat(AT_FDCWD, "/proc/12443", {st_mode=S_IFDIR|0555, st_size=0, ...}, 0) = 0
+openat(AT_FDCWD, "/proc/12443/stat", O_RDONLY) = 7
+read(7, "12443 (yandex_browser) S 3195 30"..., 1024) = 342
+close(7)                                = 0
+openat(AT_FDCWD, "/proc/12443/statm", O_RDONLY) = 7
+read(7, "303198447 77597 29372 47967 0 29"..., 1024) = 39
+close(7)                                = 0
+newfstatat(AT_FDCWD, "/proc/12945", {st_mode=S_IFDIR|0555, st_size=0, ...}, 0) = 0
+openat(AT_FDCWD, "/proc/12945/stat", O_RDONLY) = 7
+read(7, "12945 (yandex_browser) S 3195 30"..., 1024) = 344
+close(7)                                = 0
+openat(AT_FDCWD, "/proc/12945/statm", O_RDONLY) = 7
+read(7, "303674570 70227 32472 47967 0 33"..., 1024) = 39
+close(7)                                = 0
+newfstatat(AT_FDCWD, "/proc/14748", {st_mode=S_IFDIR|0555, st_size=0, ...}, 0) = 0
+openat(AT_FDCWD, "/proc/14748/stat", O_RDONLY) = 7
+read(7, "14748 (yandex_browser) S 3195 30"..., 1024) = 345
+close(7)                                = 0
+openat(AT_FDCWD, "/proc/14748/statm", O_RDONLY) = 7
+read(7, "303674570 67516 31277 47967 0 27"..., 1024) = 39
+close(7)                                = 0
+newfstatat(AT_FDCWD, "/proc/15819", {st_mode=S_IFDIR|0555, st_size=0, ...}, 0) = 0
+openat(AT_FDCWD, "/proc/15819/stat", O_RDONLY) = 7
+read(7, "15819 (yandex_browser) S 3195 30"..., 1024) = 336
+close(7)                                = 0
+openat(AT_FDCWD, "/proc/15819/statm", O_RDONLY) = 7
+read(7, "8621886 8157 6807 47967 0 30222 "..., 1024) = 34
+close(7)                                = 0
+newfstatat(AT_FDCWD, "/proc/17762", {st_mode=S_IFDIR|0555, st_size=0, ...}, 0) = 0
+openat(AT_FDCWD, "/proc/17762/stat", O_RDONLY) = 7
+read(7, "17762 (remmina-file-wr) S 1 1776"..., 1024) = 324
+close(7)                                = 0
+openat(AT_FDCWD, "/proc/17762/statm", O_RDONLY) = 7
+read(7, "1734 742 673 193 0 109 0\n", 1024) = 25
+close(7)                                = 0
+newfstatat(AT_FDCWD, "/proc/17765", {st_mode=S_IFDIR|0555, st_size=0, ...}, 0) = 0
+openat(AT_FDCWD, "/proc/17765/stat", O_RDONLY) = 7
+read(7, "17765 (remmina) S 17762 17761 17"..., 1024) = 336
+close(7)                                = 0
+openat(AT_FDCWD, "/proc/17765/statm", O_RDONLY) = 7
+read(7, "256967 26340 10845 79 0 113146 0"..., 1024) = 33
+close(7)                                = 0
+newfstatat(AT_FDCWD, "/proc/20797", {st_mode=S_IFDIR|0555, st_size=0, ...}, 0) = 0
+openat(AT_FDCWD, "/proc/20797/stat", O_RDONLY) = 7
+read(7, "20797 (bash) S 4725 20797 20797 "..., 1024) = 345
+close(7)                                = 0
+openat(AT_FDCWD, "/proc/20797/statm", O_RDONLY) = 7
+read(7, "2175 1228 754 193 0 504 0\n", 1024) = 26
+close(7)                                = 0
+newfstatat(AT_FDCWD, "/proc/22841", {st_mode=S_IFDIR|0555, st_size=0, ...}, 0) = 0
+openat(AT_FDCWD, "/proc/22841/stat", O_RDONLY) = 7
+read(7, "22841 (gvfsd-metadata) S 1 2932 "..., 1024) = 319
+close(7)                                = 0
+openat(AT_FDCWD, "/proc/22841/statm", O_RDONLY) = 7
+read(7, "40423 1622 1451 10 0 4353 0\n", 1024) = 28
+close(7)                                = 0
+newfstatat(AT_FDCWD, "/proc/27057", {st_mode=S_IFDIR|0555, st_size=0, ...}, 0) = 0
+openat(AT_FDCWD, "/proc/27057/stat", O_RDONLY) = 7
+read(7, "27057 (su) S 6202 27057 6198 348"..., 1024) = 188
+close(7)                                = 0
+openat(AT_FDCWD, "/proc/27057/statm", O_RDONLY) = 7
+read(7, "4879 1811 1530 10 0 212 0\n", 1024) = 26
+close(7)                                = 0
+newfstatat(AT_FDCWD, "/proc/27058", {st_mode=S_IFDIR|0555, st_size=0, ...}, 0) = 0
+openat(AT_FDCWD, "/proc/27058/stat", O_RDONLY) = 7
+read(7, "27058 (bash) S 27057 27058 6198 "..., 1024) = 342
+close(7)                                = 0
+openat(AT_FDCWD, "/proc/27058/statm", O_RDONLY) = 7
+read(7, "2094 1290 840 193 0 469 0\n", 1024) = 26
+close(7)                                = 0
+newfstatat(AT_FDCWD, "/proc/27225", {st_mode=S_IFDIR|0555, st_size=0, ...}, 0) = 0
+openat(AT_FDCWD, "/proc/27225/stat", O_RDONLY) = 7
+read(7, "27225 (uas) I 2 0 0 0 -1 6923888"..., 1024) = 157
+close(7)                                = 0
+openat(AT_FDCWD, "/proc/27225/statm", O_RDONLY) = 7
+read(7, "0 0 0 0 0 0 0\n", 1024)        = 14
+close(7)                                = 0
+newfstatat(AT_FDCWD, "/proc/42681", {st_mode=S_IFDIR|0555, st_size=0, ...}, 0) = 0
+openat(AT_FDCWD, "/proc/42681/stat", O_RDONLY) = 7
+read(7, "42681 (fly-fm-service) S 1 2932 "..., 1024) = 338
+close(7)                                = 0
+openat(AT_FDCWD, "/proc/42681/statm", O_RDONLY) = 7
+read(7, "259521 26411 19091 37 0 19059 0\n", 1024) = 32
+close(7)                                = 0
+newfstatat(AT_FDCWD, "/proc/42695", {st_mode=S_IFDIR|0555, st_size=0, ...}, 0) = 0
+openat(AT_FDCWD, "/proc/42695/stat", O_RDONLY) = 7
+read(7, "42695 (fly-fops-servic) S 1 2932"..., 1024) = 330
+close(7)                                = 0
+openat(AT_FDCWD, "/proc/42695/statm", O_RDONLY) = 7
+read(7, "67449 10225 9127 42 0 4833 0\n", 1024) = 29
+close(7)                                = 0
+newfstatat(AT_FDCWD, "/proc/42701", {st_mode=S_IFDIR|0555, st_size=0, ...}, 0) = 0
+openat(AT_FDCWD, "/proc/42701/stat", O_RDONLY) = 7
+read(7, "42701 (fly-open-servic) S 1 2932"..., 1024) = 337
+close(7)                                = 0
+openat(AT_FDCWD, "/proc/42701/statm", O_RDONLY) = 7
+read(7, "343529 15352 12258 41 0 15367 0\n", 1024) = 32
+close(7)                                = 0
+newfstatat(AT_FDCWD, "/proc/44589", {st_mode=S_IFDIR|0555, st_size=0, ...}, 0) = 0
+openat(AT_FDCWD, "/proc/44589/stat", O_RDONLY) = 7
+read(7, "44589 (kworker/1:3-events) I 2 0"..., 1024) = 174
+close(7)                                = 0
+openat(AT_FDCWD, "/proc/44589/statm", O_RDONLY) = 7
+read(7, "0 0 0 0 0 0 0\n", 1024)        = 14
+close(7)                                = 0
+newfstatat(AT_FDCWD, "/proc/50635", {st_mode=S_IFDIR|0555, st_size=0, ...}, 0) = 0
+openat(AT_FDCWD, "/proc/50635/stat", O_RDONLY) = 7
+read(7, "50635 (mattermost-desk) S 1 5063"..., 1024) = 350
+close(7)                                = 0
+openat(AT_FDCWD, "/proc/50635/statm", O_RDONLY) = 7
+read(7, "364966396 72386 42984 36156 0 23"..., 1024) = 39
+close(7)                                = 0
+newfstatat(AT_FDCWD, "/proc/50639", {st_mode=S_IFDIR|0555, st_size=0, ...}, 0) = 0
+openat(AT_FDCWD, "/proc/50639/stat", O_RDONLY) = 7
+read(7, "50639 (mattermost-desk) S 50635 "..., 1024) = 332
+close(7)                                = 0
+openat(AT_FDCWD, "/proc/50639/statm", O_RDONLY) = 7
+read(7, "8575403 26026 20871 36156 0 2195"..., 1024) = 35
+close(7)                                = 0
+newfstatat(AT_FDCWD, "/proc/50640", {st_mode=S_IFDIR|0555, st_size=0, ...}, 0) = 0
+openat(AT_FDCWD, "/proc/50640/stat", O_RDONLY) = 7
+read(7, "50640 (mattermost-desk) S 50635 "..., 1024) = 332
+close(7)                                = 0
+openat(AT_FDCWD, "/proc/50640/statm", O_RDONLY) = 7
+read(7, "8575400 26081 20935 36156 0 2202"..., 1024) = 35
+close(7)                                = 0
+newfstatat(AT_FDCWD, "/proc/50642", {st_mode=S_IFDIR|0555, st_size=0, ...}, 0) = 0
+openat(AT_FDCWD, "/proc/50642/stat", O_RDONLY) = 7
+read(7, "50642 (mattermost-desk) S 50640 "..., 1024) = 334
+close(7)                                = 0
+openat(AT_FDCWD, "/proc/50642/statm", O_RDONLY) = 7
+read(7, "8575407 6163 989 36156 0 2209 0\n", 1024) = 32
+close(7)                                = 0
+newfstatat(AT_FDCWD, "/proc/50669", {st_mode=S_IFDIR|0555, st_size=0, ...}, 0) = 0
+openat(AT_FDCWD, "/proc/50669/stat", O_RDONLY) = 7
+read(7, "50669 (xdg-desktop-por) S 1 2932"..., 1024) = 328
+close(7)                                = 0
+openat(AT_FDCWD, "/proc/50669/statm", O_RDONLY) = 7
+read(7, "70249 11917 10656 146 0 4822 0\n", 1024) = 31
+close(7)                                = 0
+newfstatat(AT_FDCWD, "/proc/50673", {st_mode=S_IFDIR|0555, st_size=0, ...}, 0) = 0
+openat(AT_FDCWD, "/proc/50673/stat", O_RDONLY) = 7
+read(7, "50673 (mattermost-desk) S 50639 "..., 1024) = 344
+close(7)                                = 0
+openat(AT_FDCWD, "/proc/50673/statm", O_RDONLY) = 7
+read(7, "8633213 29435 15281 36156 0 7045"..., 1024) = 36
+close(7)                                = 0
+newfstatat(AT_FDCWD, "/proc/50678", {st_mode=S_IFDIR|0555, st_size=0, ...}, 0) = 0
+openat(AT_FDCWD, "/proc/50678/stat", O_RDONLY) = 7
+read(7, "50678 (mattermost-desk) S 50635 "..., 1024) = 336
+close(7)                                = 0
+openat(AT_FDCWD, "/proc/50678/statm", O_RDONLY) = 7
+read(7, "8542866 32363 26568 36156 0 3843"..., 1024) = 36
+close(7)                                = 0
+newfstatat(AT_FDCWD, "/proc/50712", {st_mode=S_IFDIR|0555, st_size=0, ...}, 0) = 0
+openat(AT_FDCWD, "/proc/50712/stat", O_RDONLY) = 7
+read(7, "50712 (mattermost-desk) S 50642 "..., 1024) = 345
+close(7)                                = 0
+openat(AT_FDCWD, "/proc/50712/statm", O_RDONLY) = 7
+read(7, "365000476 33371 23067 36156 0 18"..., 1024) = 39
+close(7)                                = 0
+newfstatat(AT_FDCWD, "/proc/50724", {st_mode=S_IFDIR|0555, st_size=0, ...}, 0) = 0
+openat(AT_FDCWD, "/proc/50724/stat", O_RDONLY) = 7
+read(7, "50724 (mattermost-desk) S 50642 "..., 1024) = 344
+close(7)                                = 0
+openat(AT_FDCWD, "/proc/50724/statm", O_RDONLY) = 7
+read(7, "364987689 30768 20236 36156 0 16"..., 1024) = 39
+close(7)                                = 0
+newfstatat(AT_FDCWD, "/proc/50732", {st_mode=S_IFDIR|0555, st_size=0, ...}, 0) = 0
+openat(AT_FDCWD, "/proc/50732/stat", O_RDONLY) = 7
+read(7, "50732 (mattermost-desk) S 50642 "..., 1024) = 342
+close(7)                                = 0
+openat(AT_FDCWD, "/proc/50732/statm", O_RDONLY) = 7
+read(7, "364987180 27805 19948 36156 0 16"..., 1024) = 39
+close(7)                                = 0
+newfstatat(AT_FDCWD, "/proc/50738", {st_mode=S_IFDIR|0555, st_size=0, ...}, 0) = 0
+openat(AT_FDCWD, "/proc/50738/stat", O_RDONLY) = 7
+read(7, "50738 (mattermost-desk) S 50642 "..., 1024) = 342
+close(7)                                = 0
+openat(AT_FDCWD, "/proc/50738/statm", O_RDONLY) = 7
+read(7, "364989491 28888 20472 36156 0 16"..., 1024) = 39
+close(7)                                = 0
+newfstatat(AT_FDCWD, "/proc/50766", {st_mode=S_IFDIR|0555, st_size=0, ...}, 0) = 0
+openat(AT_FDCWD, "/proc/50766/stat", O_RDONLY) = 7
+read(7, "50766 (mattermost-desk) S 50642 "..., 1024) = 351
+close(7)                                = 0
+openat(AT_FDCWD, "/proc/50766/statm", O_RDONLY) = 7
+read(7, "365011122 71954 25278 36156 0 24"..., 1024) = 39
+close(7)                                = 0
+newfstatat(AT_FDCWD, "/proc/51090", {st_mode=S_IFDIR|0555, st_size=0, ...}, 0) = 0
+openat(AT_FDCWD, "/proc/51090/stat", O_RDONLY) = 7
+read(7, "51090 (kworker/15:1-kec_query) I"..., 1024) = 179
+close(7)                                = 0
+openat(AT_FDCWD, "/proc/51090/statm", O_RDONLY) = 7
+read(7, "0 0 0 0 0 0 0\n", 1024)        = 14
+close(7)                                = 0
+newfstatat(AT_FDCWD, "/proc/58569", {st_mode=S_IFDIR|0555, st_size=0, ...}, 0) = 0
+openat(AT_FDCWD, "/proc/58569/stat", O_RDONLY) = 7
+read(7, "58569 (kworker/7:1-mm_percpu_wq)"..., 1024) = 180
+close(7)                                = 0
+openat(AT_FDCWD, "/proc/58569/statm", O_RDONLY) = 7
+read(7, "0 0 0 0 0 0 0\n", 1024)        = 14
+close(7)                                = 0
+newfstatat(AT_FDCWD, "/proc/62283", {st_mode=S_IFDIR|0555, st_size=0, ...}, 0) = 0
+openat(AT_FDCWD, "/proc/62283/stat", O_RDONLY) = 7
+read(7, "62283 (kworker/3:1-events) I 2 0"..., 1024) = 174
+close(7)                                = 0
+openat(AT_FDCWD, "/proc/62283/statm", O_RDONLY) = 7
+read(7, "0 0 0 0 0 0 0\n", 1024)        = 14
+close(7)                                = 0
+newfstatat(AT_FDCWD, "/proc/63418", {st_mode=S_IFDIR|0555, st_size=0, ...}, 0) = 0
+openat(AT_FDCWD, "/proc/63418/stat", O_RDONLY) = 7
+read(7, "63418 (mattermost-desk) S 50635 "..., 1024) = 337
+close(7)                                = 0
+openat(AT_FDCWD, "/proc/63418/statm", O_RDONLY) = 7
+read(7, "8588895 28668 23378 36156 0 1485"..., 1024) = 36
+close(7)                                = 0
+newfstatat(AT_FDCWD, "/proc/64318", {st_mode=S_IFDIR|0555, st_size=0, ...}, 0) = 0
+openat(AT_FDCWD, "/proc/64318/stat", O_RDONLY) = 7
+read(7, "64318 (bash) S 4725 64318 64318 "..., 1024) = 340
+close(7)                                = 0
+openat(AT_FDCWD, "/proc/64318/statm", O_RDONLY) = 7
+read(7, "2063 1275 859 193 0 438 0\n", 1024) = 26
+close(7)                                = 0
+newfstatat(AT_FDCWD, "/proc/64436", {st_mode=S_IFDIR|0555, st_size=0, ...}, 0) = 0
+openat(AT_FDCWD, "/proc/64436/stat", O_RDONLY) = 7
+read(7, "64436 (bash) S 4725 64436 64436 "..., 1024) = 345
+close(7)                                = 0
+openat(AT_FDCWD, "/proc/64436/statm", O_RDONLY) = 7
+read(7, "2096 1358 906 193 0 471 0\n", 1024) = 26
+close(7)                                = 0
+newfstatat(AT_FDCWD, "/proc/65858", {st_mode=S_IFDIR|0555, st_size=0, ...}, 0) = 0
+openat(AT_FDCWD, "/proc/65858/stat", O_RDONLY) = 7
+read(7, "65858 (yandex_browser) S 3195 30"..., 1024) = 340
+close(7)                                = 0
+openat(AT_FDCWD, "/proc/65858/statm", O_RDONLY) = 7
+read(7, "303671531 46849 30229 47967 0 22"..., 1024) = 39
+close(7)                                = 0
+newfstatat(AT_FDCWD, "/proc/66755", {st_mode=S_IFDIR|0555, st_size=0, ...}, 0) = 0
+openat(AT_FDCWD, "/proc/66755/stat", O_RDONLY) = 7
+read(7, "66755 (kate) S 1 66753 66753 0 -"..., 1024) = 327
+close(7)                                = 0
+openat(AT_FDCWD, "/proc/66755/statm", O_RDONLY) = 7
+read(7, "125383 29169 20105 11 0 16607 0\n", 1024) = 32
+close(7)                                = 0
+newfstatat(AT_FDCWD, "/proc/66922", {st_mode=S_IFDIR|0555, st_size=0, ...}, 0) = 0
+openat(AT_FDCWD, "/proc/66922/stat", O_RDONLY) = 7
+read(7, "66922 (bash) S 4725 66922 66922 "..., 1024) = 342
+close(7)                                = 0
+openat(AT_FDCWD, "/proc/66922/statm", O_RDONLY) = 7
+read(7, "2096 1349 902 193 0 471 0\n", 1024) = 26
+close(7)                                = 0
+newfstatat(AT_FDCWD, "/proc/66949", {st_mode=S_IFDIR|0555, st_size=0, ...}, 0) = 0
+openat(AT_FDCWD, "/proc/66949/stat", O_RDONLY) = 7
+read(7, "66949 (kworker/12:1-events) I 2 "..., 1024) = 176
+close(7)                                = 0
+openat(AT_FDCWD, "/proc/66949/statm", O_RDONLY) = 7
+read(7, "0 0 0 0 0 0 0\n", 1024)        = 14
+close(7)                                = 0
+newfstatat(AT_FDCWD, "/proc/67246", {st_mode=S_IFDIR|0555, st_size=0, ...}, 0) = 0
+openat(AT_FDCWD, "/proc/67246/stat", O_RDONLY) = 7
+read(7, "67246 (code) S 1 67244 67244 0 -"..., 1024) = 347
+close(7)                                = 0
+openat(AT_FDCWD, "/proc/67246/statm", O_RDONLY) = 7
+read(7, "304579346 66480 45645 33942 0 23"..., 1024) = 39
+close(7)                                = 0
+newfstatat(AT_FDCWD, "/proc/67249", {st_mode=S_IFDIR|0555, st_size=0, ...}, 0) = 0
+openat(AT_FDCWD, "/proc/67249/stat", O_RDONLY) = 7
+read(7, "67249 (code) S 67246 67244 67244"..., 1024) = 326
+close(7)                                = 0
+openat(AT_FDCWD, "/proc/67249/statm", O_RDONLY) = 7
+read(7, "8568862 24626 19675 33942 0 2038"..., 1024) = 35
+close(7)                                = 0
+newfstatat(AT_FDCWD, "/proc/67250", {st_mode=S_IFDIR|0555, st_size=0, ...}, 0) = 0
+openat(AT_FDCWD, "/proc/67250/stat", O_RDONLY) = 7
+read(7, "67250 (code) S 67246 67244 67244"..., 1024) = 325
+close(7)                                = 0
+openat(AT_FDCWD, "/proc/67250/statm", O_RDONLY) = 7
+read(7, "8568860 24337 19413 33942 0 2046"..., 1024) = 35
+close(7)                                = 0
+newfstatat(AT_FDCWD, "/proc/67252", {st_mode=S_IFDIR|0555, st_size=0, ...}, 0) = 0
+openat(AT_FDCWD, "/proc/67252/stat", O_RDONLY) = 7
+read(7, "67252 (code) S 67250 67244 67244"..., 1024) = 322
+close(7)                                = 0
+openat(AT_FDCWD, "/proc/67252/statm", O_RDONLY) = 7
+read(7, "8568867 5884 923 33942 0 2053 0\n", 1024) = 32
+close(7)                                = 0
+newfstatat(AT_FDCWD, "/proc/67271", {st_mode=S_IFDIR|0555, st_size=0, ...}, 0) = 0
+openat(AT_FDCWD, "/proc/67271/stat", O_RDONLY) = 7
+read(7, "67271 (chrome_crashpad) S 1 6727"..., 1024) = 330
+close(7)                                = 0
+openat(AT_FDCWD, "/proc/67271/statm", O_RDONLY) = 7
+read(7, "8393909 795 713 259 0 4259 0\n", 1024) = 29
+close(7)                                = 0
+newfstatat(AT_FDCWD, "/proc/67286", {st_mode=S_IFDIR|0555, st_size=0, ...}, 0) = 0
+openat(AT_FDCWD, "/proc/67286/stat", O_RDONLY) = 7
+read(7, "67286 (code) S 67249 67244 67244"..., 1024) = 335
+close(7)                                = 0
+openat(AT_FDCWD, "/proc/67286/statm", O_RDONLY) = 7
+read(7, "8624227 25839 15000 33942 0 6169"..., 1024) = 36
+close(7)                                = 0
+newfstatat(AT_FDCWD, "/proc/67289", {st_mode=S_IFDIR|0555, st_size=0, ...}, 0) = 0
+openat(AT_FDCWD, "/proc/67289/stat", O_RDONLY) = 7
+read(7, "67289 (code) S 67246 67244 67244"..., 1024) = 333
+close(7)                                = 0
+openat(AT_FDCWD, "/proc/67289/statm", O_RDONLY) = 7
+read(7, "8522050 30260 24989 33942 0 2153"..., 1024) = 36
+close(7)                                = 0
+newfstatat(AT_FDCWD, "/proc/67328", {st_mode=S_IFDIR|0555, st_size=0, ...}, 0) = 0
+openat(AT_FDCWD, "/proc/67328/stat", O_RDONLY) = 7
+read(7, "67328 (code) S 67252 67244 67244"..., 1024) = 341
+close(7)                                = 0
+openat(AT_FDCWD, "/proc/67328/statm", O_RDONLY) = 7
+read(7, "305041580 69689 24765 33942 0 26"..., 1024) = 39
+close(7)                                = 0
+newfstatat(AT_FDCWD, "/proc/67370", {st_mode=S_IFDIR|0555, st_size=0, ...}, 0) = 0
+openat(AT_FDCWD, "/proc/67370/stat", O_RDONLY) = 7
+read(7, "67370 (code) S 67246 67244 67244"..., 1024) = 341
+close(7)                                = 0
+openat(AT_FDCWD, "/proc/67370/statm", O_RDONLY) = 7
+read(7, "304524615 46727 29038 33942 0 18"..., 1024) = 39
+close(7)                                = 0
+newfstatat(AT_FDCWD, "/proc/67700", {st_mode=S_IFDIR|0555, st_size=0, ...}, 0) = 0
+openat(AT_FDCWD, "/proc/67700/stat", O_RDONLY) = 7
+read(7, "67700 (code) S 67246 67244 67244"..., 1024) = 347
+close(7)                                = 0
+openat(AT_FDCWD, "/proc/67700/statm", O_RDONLY) = 7
+read(7, "304526847 40552 28761 33942 0 17"..., 1024) = 39
+close(7)                                = 0
+newfstatat(AT_FDCWD, "/proc/69157", {st_mode=S_IFDIR|0555, st_size=0, ...}, 0) = 0
+openat(AT_FDCWD, "/proc/69157/stat", O_RDONLY) = 7
+read(7, "69157 (kworker/0:2H-events_highp"..., 1024) = 182
+close(7)                                = 0
+openat(AT_FDCWD, "/proc/69157/statm", O_RDONLY) = 7
+read(7, "0 0 0 0 0 0 0\n", 1024)        = 14
+close(7)                                = 0
+newfstatat(AT_FDCWD, "/proc/69253", {st_mode=S_IFDIR|0555, st_size=0, ...}, 0) = 0
+openat(AT_FDCWD, "/proc/69253/stat", O_RDONLY) = 7
+read(7, "69253 (yandex_browser) S 3195 30"..., 1024) = 343
+close(7)                                = 0
+openat(AT_FDCWD, "/proc/69253/statm", O_RDONLY) = 7
+read(7, "303198873 79717 29467 47967 0 32"..., 1024) = 39
+close(7)                                = 0
+newfstatat(AT_FDCWD, "/proc/69597", {st_mode=S_IFDIR|0555, st_size=0, ...}, 0) = 0
+openat(AT_FDCWD, "/proc/69597/stat", O_RDONLY) = 7
+read(7, "69597 (yandex_browser) S 3195 30"..., 1024) = 342
+close(7)                                = 0
+openat(AT_FDCWD, "/proc/69597/statm", O_RDONLY) = 7
+read(7, "303198478 89268 32689 47967 0 31"..., 1024) = 39
+close(7)                                = 0
+newfstatat(AT_FDCWD, "/proc/70118", {st_mode=S_IFDIR|0555, st_size=0, ...}, 0) = 0
+openat(AT_FDCWD, "/proc/70118/stat", O_RDONLY) = 7
+read(7, "70118 (code) S 67246 67244 67244"..., 1024) = 337
+close(7)                                = 0
+openat(AT_FDCWD, "/proc/70118/statm", O_RDONLY) = 7
+read(7, "304528851 39683 28175 33942 0 17"..., 1024) = 39
+close(7)                                = 0
+newfstatat(AT_FDCWD, "/proc/70119", {st_mode=S_IFDIR|0555, st_size=0, ...}, 0) = 0
+openat(AT_FDCWD, "/proc/70119/stat", O_RDONLY) = 7
+read(7, "70119 (code) S 67246 67244 67244"..., 1024) = 340
+close(7)                                = 0
+openat(AT_FDCWD, "/proc/70119/statm", O_RDONLY) = 7
+read(7, "304524973 88845 30461 33942 0 22"..., 1024) = 39
+close(7)                                = 0
+newfstatat(AT_FDCWD, "/proc/70184", {st_mode=S_IFDIR|0555, st_size=0, ...}, 0) = 0
+openat(AT_FDCWD, "/proc/70184/stat", O_RDONLY) = 7
+read(7, "70184 (bash) S 67700 70184 70184"..., 1024) = 336
+close(7)                                = 0
+openat(AT_FDCWD, "/proc/70184/statm", O_RDONLY) = 7
+read(7, "2129 1305 866 193 0 504 0\n", 1024) = 26
+close(7)                                = 0
+newfstatat(AT_FDCWD, "/proc/70211", {st_mode=S_IFDIR|0555, st_size=0, ...}, 0) = 0
+openat(AT_FDCWD, "/proc/70211/stat", O_RDONLY) = 7
+read(7, "70211 (code) S 70119 67244 67244"..., 1024) = 342
+close(7)                                = 0
+openat(AT_FDCWD, "/proc/70211/statm", O_RDONLY) = 7
+read(7, "304943063 84481 27010 33942 0 23"..., 1024) = 39
+close(7)                                = 0
+newfstatat(AT_FDCWD, "/proc/71904", {st_mode=S_IFDIR|0555, st_size=0, ...}, 0) = 0
+openat(AT_FDCWD, "/proc/71904/stat", O_RDONLY) = 7
+read(7, "71904 (kworker/13:2-mm_percpu_wq"..., 1024) = 182
+close(7)                                = 0
+openat(AT_FDCWD, "/proc/71904/statm", O_RDONLY) = 7
+read(7, "0 0 0 0 0 0 0\n", 1024)        = 14
+close(7)                                = 0
+newfstatat(AT_FDCWD, "/proc/73271", {st_mode=S_IFDIR|0555, st_size=0, ...}, 0) = 0
+openat(AT_FDCWD, "/proc/73271/stat", O_RDONLY) = 7
+read(7, "73271 (kworker/15:2-mm_percpu_wq"..., 1024) = 182
+close(7)                                = 0
+openat(AT_FDCWD, "/proc/73271/statm", O_RDONLY) = 7
+read(7, "0 0 0 0 0 0 0\n", 1024)        = 14
+close(7)                                = 0
+newfstatat(AT_FDCWD, "/proc/73578", {st_mode=S_IFDIR|0555, st_size=0, ...}, 0) = 0
+openat(AT_FDCWD, "/proc/73578/stat", O_RDONLY) = 7
+read(7, "73578 (kworker/10:2-mm_percpu_wq"..., 1024) = 182
+close(7)                                = 0
+openat(AT_FDCWD, "/proc/73578/statm", O_RDONLY) = 7
+read(7, "0 0 0 0 0 0 0\n", 1024)        = 14
+close(7)                                = 0
+newfstatat(AT_FDCWD, "/proc/74459", {st_mode=S_IFDIR|0555, st_size=0, ...}, 0) = 0
+openat(AT_FDCWD, "/proc/74459/stat", O_RDONLY) = 7
+read(7, "74459 (kworker/3:0) I 2 0 0 0 -1"..., 1024) = 165
+close(7)                                = 0
+openat(AT_FDCWD, "/proc/74459/statm", O_RDONLY) = 7
+read(7, "0 0 0 0 0 0 0\n", 1024)        = 14
+close(7)                                = 0
+newfstatat(AT_FDCWD, "/proc/74701", {st_mode=S_IFDIR|0555, st_size=0, ...}, 0) = 0
+openat(AT_FDCWD, "/proc/74701/stat", O_RDONLY) = 7
+read(7, "74701 (cupsd) S 1 74701 74701 0 "..., 1024) = 183
+close(7)                                = 0
+openat(AT_FDCWD, "/proc/74701/statm", O_RDONLY) = 7
+read(7, "7099 3341 2209 88 0 1296 0\n", 1024) = 27
+close(7)                                = 0
+newfstatat(AT_FDCWD, "/proc/74939", {st_mode=S_IFDIR|0555, st_size=0, ...}, 0) = 0
+openat(AT_FDCWD, "/proc/74939/stat", O_RDONLY) = 7
+read(7, "74939 (kworker/14:0-events) I 2 "..., 1024) = 176
+close(7)                                = 0
+openat(AT_FDCWD, "/proc/74939/statm", O_RDONLY) = 7
+read(7, "0 0 0 0 0 0 0\n", 1024)        = 14
+close(7)                                = 0
+newfstatat(AT_FDCWD, "/proc/75036", {st_mode=S_IFDIR|0555, st_size=0, ...}, 0) = 0
+openat(AT_FDCWD, "/proc/75036/stat", O_RDONLY) = 7
+read(7, "75036 (kworker/5:1-events) I 2 0"..., 1024) = 175
+close(7)                                = 0
+openat(AT_FDCWD, "/proc/75036/statm", O_RDONLY) = 7
+read(7, "0 0 0 0 0 0 0\n", 1024)        = 14
+close(7)                                = 0
+newfstatat(AT_FDCWD, "/proc/75075", {st_mode=S_IFDIR|0555, st_size=0, ...}, 0) = 0
+openat(AT_FDCWD, "/proc/75075/stat", O_RDONLY) = 7
+read(7, "75075 (kworker/11:1-events) I 2 "..., 1024) = 176
+close(7)                                = 0
+openat(AT_FDCWD, "/proc/75075/statm", O_RDONLY) = 7
+read(7, "0 0 0 0 0 0 0\n", 1024)        = 14
+close(7)                                = 0
+newfstatat(AT_FDCWD, "/proc/77308", {st_mode=S_IFDIR|0555, st_size=0, ...}, 0) = 0
+openat(AT_FDCWD, "/proc/77308/stat", O_RDONLY) = 7
+read(7, "77308 (kworker/11:2) I 2 0 0 0 -"..., 1024) = 167
+close(7)                                = 0
+openat(AT_FDCWD, "/proc/77308/statm", O_RDONLY) = 7
+read(7, "0 0 0 0 0 0 0\n", 1024)        = 14
+close(7)                                = 0
+newfstatat(AT_FDCWD, "/proc/79633", {st_mode=S_IFDIR|0555, st_size=0, ...}, 0) = 0
+openat(AT_FDCWD, "/proc/79633/stat", O_RDONLY) = 7
+read(7, "79633 (kworker/0:3-events) I 2 0"..., 1024) = 175
+close(7)                                = 0
+openat(AT_FDCWD, "/proc/79633/statm", O_RDONLY) = 7
+read(7, "0 0 0 0 0 0 0\n", 1024)        = 14
+close(7)                                = 0
+newfstatat(AT_FDCWD, "/proc/80196", {st_mode=S_IFDIR|0555, st_size=0, ...}, 0) = 0
+openat(AT_FDCWD, "/proc/80196/stat", O_RDONLY) = 7
+read(7, "80196 (kworker/14:2) I 2 0 0 0 -"..., 1024) = 167
+close(7)                                = 0
+openat(AT_FDCWD, "/proc/80196/statm", O_RDONLY) = 7
+read(7, "0 0 0 0 0 0 0\n", 1024)        = 14
+close(7)                                = 0
+newfstatat(AT_FDCWD, "/proc/80464", {st_mode=S_IFDIR|0555, st_size=0, ...}, 0) = 0
+openat(AT_FDCWD, "/proc/80464/stat", O_RDONLY) = 7
+read(7, "80464 (kworker/6:0-mm_percpu_wq)"..., 1024) = 180
+close(7)                                = 0
+openat(AT_FDCWD, "/proc/80464/statm", O_RDONLY) = 7
+read(7, "0 0 0 0 0 0 0\n", 1024)        = 14
+close(7)                                = 0
+newfstatat(AT_FDCWD, "/proc/80543", {st_mode=S_IFDIR|0555, st_size=0, ...}, 0) = 0
+openat(AT_FDCWD, "/proc/80543/stat", O_RDONLY) = 7
+read(7, "80543 (yandex_browser) S 3195 30"..., 1024) = 338
+close(7)                                = 0
+openat(AT_FDCWD, "/proc/80543/statm", O_RDONLY) = 7
+read(7, "303671799 47919 31047 47967 0 22"..., 1024) = 39
+close(7)                                = 0
+newfstatat(AT_FDCWD, "/proc/81335", {st_mode=S_IFDIR|0555, st_size=0, ...}, 0) = 0
+openat(AT_FDCWD, "/proc/81335/stat", O_RDONLY) = 7
+read(7, "81335 (kworker/9:0-mm_percpu_wq)"..., 1024) = 180
+close(7)                                = 0
+openat(AT_FDCWD, "/proc/81335/statm", O_RDONLY) = 7
+read(7, "0 0 0 0 0 0 0\n", 1024)        = 14
+close(7)                                = 0
+newfstatat(AT_FDCWD, "/proc/81428", {st_mode=S_IFDIR|0555, st_size=0, ...}, 0) = 0
+openat(AT_FDCWD, "/proc/81428/stat", O_RDONLY) = 7
+read(7, "81428 (kworker/2:0-events) I 2 0"..., 1024) = 172
+close(7)                                = 0
+openat(AT_FDCWD, "/proc/81428/statm", O_RDONLY) = 7
+read(7, "0 0 0 0 0 0 0\n", 1024)        = 14
+close(7)                                = 0
+newfstatat(AT_FDCWD, "/proc/81446", {st_mode=S_IFDIR|0555, st_size=0, ...}, 0) = 0
+openat(AT_FDCWD, "/proc/81446/stat", O_RDONLY) = 7
+read(7, "81446 (kworker/10:1) I 2 0 0 0 -"..., 1024) = 167
+close(7)                                = 0
+openat(AT_FDCWD, "/proc/81446/statm", O_RDONLY) = 7
+read(7, "0 0 0 0 0 0 0\n", 1024)        = 14
+close(7)                                = 0
+newfstatat(AT_FDCWD, "/proc/81465", {st_mode=S_IFDIR|0555, st_size=0, ...}, 0) = 0
+openat(AT_FDCWD, "/proc/81465/stat", O_RDONLY) = 7
+read(7, "81465 (kworker/12:0) I 2 0 0 0 -"..., 1024) = 167
+close(7)                                = 0
+openat(AT_FDCWD, "/proc/81465/statm", O_RDONLY) = 7
+read(7, "0 0 0 0 0 0 0\n", 1024)        = 14
+close(7)                                = 0
+newfstatat(AT_FDCWD, "/proc/81581", {st_mode=S_IFDIR|0555, st_size=0, ...}, 0) = 0
+openat(AT_FDCWD, "/proc/81581/stat", O_RDONLY) = 7
+read(7, "81581 (kworker/1:1-events) I 2 0"..., 1024) = 172
+close(7)                                = 0
+openat(AT_FDCWD, "/proc/81581/statm", O_RDONLY) = 7
+read(7, "0 0 0 0 0 0 0\n", 1024)        = 14
+close(7)                                = 0
+newfstatat(AT_FDCWD, "/proc/81585", {st_mode=S_IFDIR|0555, st_size=0, ...}, 0) = 0
+openat(AT_FDCWD, "/proc/81585/stat", O_RDONLY) = 7
+read(7, "81585 (kworker/u32:0-events_unbo"..., 1024) = 187
+close(7)                                = 0
+openat(AT_FDCWD, "/proc/81585/statm", O_RDONLY) = 7
+read(7, "0 0 0 0 0 0 0\n", 1024)        = 14
+close(7)                                = 0
+newfstatat(AT_FDCWD, "/proc/81592", {st_mode=S_IFDIR|0555, st_size=0, ...}, 0) = 0
+openat(AT_FDCWD, "/proc/81592/stat", O_RDONLY) = 7
+read(7, "81592 (kworker/7:2) I 2 0 0 0 -1"..., 1024) = 165
+close(7)                                = 0
+openat(AT_FDCWD, "/proc/81592/statm", O_RDONLY) = 7
+read(7, "0 0 0 0 0 0 0\n", 1024)        = 14
+close(7)                                = 0
+newfstatat(AT_FDCWD, "/proc/81715", {st_mode=S_IFDIR|0555, st_size=0, ...}, 0) = 0
+openat(AT_FDCWD, "/proc/81715/stat", O_RDONLY) = 7
+read(7, "81715 (kworker/2:1-mm_percpu_wq)"..., 1024) = 180
+close(7)                                = 0
+openat(AT_FDCWD, "/proc/81715/statm", O_RDONLY) = 7
+read(7, "0 0 0 0 0 0 0\n", 1024)        = 14
+close(7)                                = 0
+newfstatat(AT_FDCWD, "/proc/81742", {st_mode=S_IFDIR|0555, st_size=0, ...}, 0) = 0
+openat(AT_FDCWD, "/proc/81742/stat", O_RDONLY) = 7
+read(7, "81742 (kworker/4:0-cgwb_release)"..., 1024) = 178
+close(7)                                = 0
+openat(AT_FDCWD, "/proc/81742/statm", O_RDONLY) = 7
+read(7, "0 0 0 0 0 0 0\n", 1024)        = 14
+close(7)                                = 0
+newfstatat(AT_FDCWD, "/proc/81749", {st_mode=S_IFDIR|0555, st_size=0, ...}, 0) = 0
+openat(AT_FDCWD, "/proc/81749/stat", O_RDONLY) = 7
+read(7, "81749 (kworker/9:2-cgroup_destro"..., 1024) = 180
+close(7)                                = 0
+openat(AT_FDCWD, "/proc/81749/statm", O_RDONLY) = 7
+read(7, "0 0 0 0 0 0 0\n", 1024)        = 14
+close(7)                                = 0
+newfstatat(AT_FDCWD, "/proc/81891", {st_mode=S_IFDIR|0555, st_size=0, ...}, 0) = 0
+openat(AT_FDCWD, "/proc/81891/stat", O_RDONLY) = 7
+read(7, "81891 (nm-openconnect-) S 1 8189"..., 1024) = 188
+close(7)                                = 0
+openat(AT_FDCWD, "/proc/81891/statm", O_RDONLY) = 7
+read(7, "42353 2570 2279 3 0 4429 0\n", 1024) = 27
+close(7)                                = 0
+newfstatat(AT_FDCWD, "/proc/81926", {st_mode=S_IFDIR|0555, st_size=0, ...}, 0) = 0
+openat(AT_FDCWD, "/proc/81926/stat", O_RDONLY) = 7
+read(7, "81926 (openconnect) S 81891 8189"..., 1024) = 188
+close(7)                                = 0
+openat(AT_FDCWD, "/proc/81926/statm", O_RDONLY) = 7
+read(7, "15761 3275 2794 7 0 360 0\n", 1024) = 26
+close(7)                                = 0
+newfstatat(AT_FDCWD, "/proc/82001", {st_mode=S_IFDIR|0555, st_size=0, ...}, 0) = 0
+openat(AT_FDCWD, "/proc/82001/stat", O_RDONLY) = 7
+read(7, "82001 (kworker/4:3-mm_percpu_wq)"..., 1024) = 180
+close(7)                                = 0
+openat(AT_FDCWD, "/proc/82001/statm", O_RDONLY) = 7
+read(7, "0 0 0 0 0 0 0\n", 1024)        = 14
+close(7)                                = 0
+newfstatat(AT_FDCWD, "/proc/82005", {st_mode=S_IFDIR|0555, st_size=0, ...}, 0) = 0
+openat(AT_FDCWD, "/proc/82005/stat", O_RDONLY) = 7
+read(7, "82005 (ntpd) S 1 82005 82005 0 -"..., 1024) = 181
+close(7)                                = 0
+openat(AT_FDCWD, "/proc/82005/statm", O_RDONLY) = 7
+read(7, "22422 6063 3085 75 0 2842 0\n", 1024) = 28
+close(7)                                = 0
+newfstatat(AT_FDCWD, "/proc/82027", {st_mode=S_IFDIR|0555, st_size=0, ...}, 0) = 0
+openat(AT_FDCWD, "/proc/82027/stat", O_RDONLY) = 7
+read(7, "82027 (kworker/8:2) I 2 0 0 0 -1"..., 1024) = 165
+close(7)                                = 0
+openat(AT_FDCWD, "/proc/82027/statm", O_RDONLY) = 7
+read(7, "0 0 0 0 0 0 0\n", 1024)        = 14
+close(7)                                = 0
+newfstatat(AT_FDCWD, "/proc/82050", {st_mode=S_IFDIR|0555, st_size=0, ...}, 0) = 0
+openat(AT_FDCWD, "/proc/82050/stat", O_RDONLY) = 7
+read(7, "82050 (ssh) S 64318 82050 64318 "..., 1024) = 332
+close(7)                                = 0
+openat(AT_FDCWD, "/proc/82050/statm", O_RDONLY) = 7
+read(7, "4625 2585 2115 149 0 390 0\n", 1024) = 27
+close(7)                                = 0
+newfstatat(AT_FDCWD, "/proc/82071", {st_mode=S_IFDIR|0555, st_size=0, ...}, 0) = 0
+openat(AT_FDCWD, "/proc/82071/stat", O_RDONLY) = 7
+read(7, "82071 (kworker/8:0-mm_percpu_wq)"..., 1024) = 180
+close(7)                                = 0
+openat(AT_FDCWD, "/proc/82071/statm", O_RDONLY) = 7
+read(7, "0 0 0 0 0 0 0\n", 1024)        = 14
+close(7)                                = 0
+newfstatat(AT_FDCWD, "/proc/82074", {st_mode=S_IFDIR|0555, st_size=0, ...}, 0) = 0
+openat(AT_FDCWD, "/proc/82074/stat", O_RDONLY) = 7
+read(7, "82074 (kworker/13:0) I 2 0 0 0 -"..., 1024) = 167
+close(7)                                = 0
+openat(AT_FDCWD, "/proc/82074/statm", O_RDONLY) = 7
+read(7, "0 0 0 0 0 0 0\n", 1024)        = 14
+close(7)                                = 0
+newfstatat(AT_FDCWD, "/proc/82162", {st_mode=S_IFDIR|0555, st_size=0, ...}, 0) = 0
+openat(AT_FDCWD, "/proc/82162/stat", O_RDONLY) = 7
+read(7, "82162 (kworker/6:1) I 2 0 0 0 -1"..., 1024) = 165
+close(7)                                = 0
+openat(AT_FDCWD, "/proc/82162/statm", O_RDONLY) = 7
+read(7, "0 0 0 0 0 0 0\n", 1024)        = 14
+close(7)                                = 0
+newfstatat(AT_FDCWD, "/proc/82219", {st_mode=S_IFDIR|0555, st_size=0, ...}, 0) = 0
+openat(AT_FDCWD, "/proc/82219/stat", O_RDONLY) = 7
+read(7, "82219 (kworker/5:0-events) I 2 0"..., 1024) = 172
+close(7)                                = 0
+openat(AT_FDCWD, "/proc/82219/statm", O_RDONLY) = 7
+read(7, "0 0 0 0 0 0 0\n", 1024)        = 14
+close(7)                                = 0
+newfstatat(AT_FDCWD, "/proc/82275", {st_mode=S_IFDIR|0555, st_size=0, ...}, 0) = 0
+openat(AT_FDCWD, "/proc/82275/stat", O_RDONLY) = 7
+read(7, "82275 (kworker/u32:3-flush-253:0"..., 1024) = 180
+close(7)                                = 0
+openat(AT_FDCWD, "/proc/82275/statm", O_RDONLY) = 7
+read(7, "0 0 0 0 0 0 0\n", 1024)        = 14
+close(7)                                = 0
+newfstatat(AT_FDCWD, "/proc/82308", {st_mode=S_IFDIR|0555, st_size=0, ...}, 0) = 0
+openat(AT_FDCWD, "/proc/82308/stat", O_RDONLY) = 7
+read(7, "82308 (sublime_merge) S 1 82304 "..., 1024) = 341
+close(7)                                = 0
+openat(AT_FDCWD, "/proc/82308/statm", O_RDONLY) = 7
+read(7, "112327 26249 15986 1537 0 77274 "..., 1024) = 34
+close(7)                                = 0
+newfstatat(AT_FDCWD, "/proc/82313", {st_mode=S_IFDIR|0555, st_size=0, ...}, 0) = 0
+openat(AT_FDCWD, "/proc/82313/stat", O_RDONLY) = 7
+read(7, "82313 (crash_handler) S 1 82312 "..., 1024) = 327
+close(7)                                = 0
+openat(AT_FDCWD, "/proc/82313/statm", O_RDONLY) = 7
+read(7, "38021 351 308 170 0 4258 0\n", 1024) = 27
+close(7)                                = 0
+newfstatat(AT_FDCWD, "/proc/82510", {st_mode=S_IFDIR|0555, st_size=0, ...}, 0) = 0
+openat(AT_FDCWD, "/proc/82510/stat", O_RDONLY) = 7
+read(7, "82510 (yandex_browser) S 3195 30"..., 1024) = 346
+close(7)                                = 0
+openat(AT_FDCWD, "/proc/82510/statm", O_RDONLY) = 7
+read(7, "304646585 107647 40502 47967 0 3"..., 1024) = 40
+close(7)                                = 0
+newfstatat(AT_FDCWD, "/proc/82633", {st_mode=S_IFDIR|0555, st_size=0, ...}, 0) = 0
+openat(AT_FDCWD, "/proc/82633/stat", O_RDONLY) = 7
+read(7, "82633 (yandex_browser) S 3195 30"..., 1024) = 338
+close(7)                                = 0
+openat(AT_FDCWD, "/proc/82633/statm", O_RDONLY) = 7
+read(7, "303190110 35812 29056 47967 0 20"..., 1024) = 39
+close(7)                                = 0
+newfstatat(AT_FDCWD, "/proc/82669", {st_mode=S_IFDIR|0555, st_size=0, ...}, 0) = 0
+openat(AT_FDCWD, "/proc/82669/stat", O_RDONLY) = 7
+read(7, "82669 (yandex_browser) S 3195 30"..., 1024) = 334
+close(7)                                = 0
+openat(AT_FDCWD, "/proc/82669/statm", O_RDONLY) = 7
+read(7, "303163785 14520 12091 47967 0 16"..., 1024) = 39
+close(7)                                = 0
+newfstatat(AT_FDCWD, "/proc/82744", {st_mode=S_IFDIR|0555, st_size=0, ...}, 0) = 0
+openat(AT_FDCWD, "/proc/82744/stat", O_RDONLY) = 7
+read(7, "82744 (kworker/0:0-events) I 2 0"..., 1024) = 172
+close(7)                                = 0
+openat(AT_FDCWD, "/proc/82744/statm", O_RDONLY) = 7
+read(7, "0 0 0 0 0 0 0\n", 1024)        = 14
+close(7)                                = 0
+newfstatat(AT_FDCWD, "/proc/82829", {st_mode=S_IFDIR|0555, st_size=0, ...}, 0) = 0
+openat(AT_FDCWD, "/proc/82829/stat", O_RDONLY) = 7
+read(7, "82829 (kworker/u32:2-events_unbo"..., 1024) = 183
+close(7)                                = 0
+openat(AT_FDCWD, "/proc/82829/statm", O_RDONLY) = 7
+read(7, "0 0 0 0 0 0 0\n", 1024)        = 14
+close(7)                                = 0
+newfstatat(AT_FDCWD, "/proc/82842", {st_mode=S_IFDIR|0555, st_size=0, ...}, 0) = 0
+openat(AT_FDCWD, "/proc/82842/stat", O_RDONLY) = 7
+read(7, "82842 (yandex_browser) S 3140 30"..., 1024) = 340
+close(7)                                = 0
+openat(AT_FDCWD, "/proc/82842/statm", O_RDONLY) = 7
+read(7, "8675973 19006 15271 47967 0 5113"..., 1024) = 36
+close(7)                                = 0
+newfstatat(AT_FDCWD, "/proc/82843", {st_mode=S_IFDIR|0555, st_size=0, ...}, 0) = 0
+openat(AT_FDCWD, "/proc/82843/stat", O_RDONLY) = 7
+read(7, "82843 (yandex_browser) S 82842 3"..., 1024) = 330
+close(7)                                = 0
+openat(AT_FDCWD, "/proc/82843/statm", O_RDONLY) = 7
+read(7, "8609430 1942 1147 47967 0 15705 "..., 1024) = 34
+close(7)                                = 0
+newfstatat(AT_FDCWD, "/proc/82957", {st_mode=S_IFDIR|0555, st_size=0, ...}, 0) = 0
+openat(AT_FDCWD, "/proc/82957/stat", O_RDONLY) = 7
+read(7, "82957 (kworker/0:1) I 2 0 0 0 -1"..., 1024) = 165
+close(7)                                = 0
+openat(AT_FDCWD, "/proc/82957/statm", O_RDONLY) = 7
+read(7, "0 0 0 0 0 0 0\n", 1024)        = 14
+close(7)                                = 0
+newfstatat(AT_FDCWD, "/proc/82962", {st_mode=S_IFDIR|0555, st_size=0, ...}, 0) = 0
+openat(AT_FDCWD, "/proc/82962/stat", O_RDONLY) = 7
+read(7, "82962 (top) R 64436 82962 64436 "..., 1024) = 328
+close(7)                                = 0
+openat(AT_FDCWD, "/proc/82962/statm", O_RDONLY) = 7
+read(7, "3391 1456 899 20 0 683 0\n", 1024) = 25
+close(7)                                = 0
+newfstatat(AT_FDCWD, "/proc/82964", {st_mode=S_IFDIR|0555, st_size=0, ...}, 0) = 0
+openat(AT_FDCWD, "/proc/82964/stat", O_RDONLY) = 7
+read(7, "82964 (sudo) S 66922 82964 66922"..., 1024) = 187
+close(7)                                = 0
+openat(AT_FDCWD, "/proc/82964/statm", O_RDONLY) = 7
+read(7, "5088 1728 1454 46 0 217 0\n", 1024) = 26
+close(7)                                = 0
+newfstatat(AT_FDCWD, "/proc/82965", {st_mode=S_IFDIR|0555, st_size=0, ...}, 0) = 0
+openat(AT_FDCWD, "/proc/82965/stat", O_RDONLY) = 7
+read(7, "82965 (strace) S 82964 82964 669"..., 1024) = 195
+close(7)                                = 0
+openat(AT_FDCWD, "/proc/82965/statm", O_RDONLY) = 7
+read(7, "2058 1003 860 159 0 154 0\n", 1024) = 26
+close(7)                                = 0
+newfstatat(AT_FDCWD, "/proc/82969", {st_mode=S_IFDIR|0555, st_size=0, ...}, 0) = 0
+openat(AT_FDCWD, "/proc/82969/stat", O_RDONLY) = 7
+read(7, "82969 (kworker/u32:1-events_unbo"..., 1024) = 183
+close(7)                                = 0
+openat(AT_FDCWD, "/proc/82969/statm", O_RDONLY) = 7
+read(7, "0 0 0 0 0 0 0\n", 1024)        = 14
+close(7)                                = 0
+getdents64(6, 0x61f416ee69a0 /* 0 entries */, 32768) = 0
+close(6)                                = 0
+lseek(4, 0, SEEK_SET)                   = 0
+read(4, "cpu  6943190 12548 2515453 41736"..., 8192) = 5574
+read(4, "", 2048)                       = 0
+lseek(5, 0, SEEK_SET)                   = 0
+read(5, "MemTotal:       16068128 kB\nMemF"..., 8191) = 1503
+openat(AT_FDCWD, "/proc/uptime", O_RDONLY) = 6
+newfstatat(6, "", {st_mode=S_IFREG|0444, st_size=0, ...}, AT_EMPTY_PATH) = 0
+read(6, "268064.92 4173637.89\n", 1024) = 21
+close(6)                                = 0
+access("/var/run/utmpx", F_OK)          = -1 ENOENT (Нет такого файла или каталога)
+openat(AT_FDCWD, "/var/run/utmp", O_RDONLY|O_CLOEXEC) = 6
+lseek(6, 0, SEEK_SET)                   = 0
+alarm(0)                                = 0
+rt_sigaction(SIGALRM, {sa_handler=0x7e5a828aaed0, sa_mask=[], sa_flags=SA_RESTORER, sa_restorer=0x7e5a8279a050}, {sa_handler=0x61f403f9d600, sa_mask=[], sa_flags=SA_RESTORER, sa_restorer=0x7e5a8279a050}, 8) = 0
+alarm(10)                               = 0
+fcntl(6, F_SETLKW, {l_type=F_RDLCK, l_whence=SEEK_SET, l_start=0, l_len=0}) = 0
+alarm(0)                                = 10
+rt_sigaction(SIGALRM, {sa_handler=0x61f403f9d600, sa_mask=[], sa_flags=SA_RESTORER, sa_restorer=0x7e5a8279a050}, NULL, 8) = 0
+pread64(6, "\2\0\0\0\0\0\0\0~\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0"..., 384, 0) = 384
+fcntl(6, F_SETLKW, {l_type=F_UNLCK, l_whence=SEEK_SET, l_start=0, l_len=0}) = 0
+alarm(0)                                = 0
+rt_sigaction(SIGALRM, {sa_handler=0x7e5a828aaed0, sa_mask=[], sa_flags=SA_RESTORER, sa_restorer=0x7e5a8279a050}, {sa_handler=0x61f403f9d600, sa_mask=[], sa_flags=SA_RESTORER, sa_restorer=0x7e5a8279a050}, 8) = 0
+alarm(10)                               = 0
+fcntl(6, F_SETLKW, {l_type=F_RDLCK, l_whence=SEEK_SET, l_start=0, l_len=0}) = 0
+alarm(0)                                = 10
+rt_sigaction(SIGALRM, {sa_handler=0x61f403f9d600, sa_mask=[], sa_flags=SA_RESTORER, sa_restorer=0x7e5a8279a050}, NULL, 8) = 0
+pread64(6, "\6\0\0\0V\7\0\0tty1\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0"..., 384, 384) = 384
+fcntl(6, F_SETLKW, {l_type=F_UNLCK, l_whence=SEEK_SET, l_start=0, l_len=0}) = 0
+alarm(0)                                = 0
+rt_sigaction(SIGALRM, {sa_handler=0x7e5a828aaed0, sa_mask=[], sa_flags=SA_RESTORER, sa_restorer=0x7e5a8279a050}, {sa_handler=0x61f403f9d600, sa_mask=[], sa_flags=SA_RESTORER, sa_restorer=0x7e5a8279a050}, 8) = 0
+alarm(10)                               = 0
+fcntl(6, F_SETLKW, {l_type=F_RDLCK, l_whence=SEEK_SET, l_start=0, l_len=0}) = 0
+alarm(0)                                = 10
+rt_sigaction(SIGALRM, {sa_handler=0x61f403f9d600, sa_mask=[], sa_flags=SA_RESTORER, sa_restorer=0x7e5a8279a050}, NULL, 8) = 0
+pread64(6, "\1\0\0\0005\0\0\0~\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0"..., 384, 768) = 384
+fcntl(6, F_SETLKW, {l_type=F_UNLCK, l_whence=SEEK_SET, l_start=0, l_len=0}) = 0
+alarm(0)                                = 0
+rt_sigaction(SIGALRM, {sa_handler=0x7e5a828aaed0, sa_mask=[], sa_flags=SA_RESTORER, sa_restorer=0x7e5a8279a050}, {sa_handler=0x61f403f9d600, sa_mask=[], sa_flags=SA_RESTORER, sa_restorer=0x7e5a8279a050}, 8) = 0
+alarm(10)                               = 0
+fcntl(6, F_SETLKW, {l_type=F_RDLCK, l_whence=SEEK_SET, l_start=0, l_len=0}) = 0
+alarm(0)                                = 10
+rt_sigaction(SIGALRM, {sa_handler=0x61f403f9d600, sa_mask=[], sa_flags=SA_RESTORER, sa_restorer=0x7e5a8279a050}, NULL, 8) = 0
+pread64(6, "\7\0\0\0'\v\0\0:0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0"..., 384, 1152) = 384
+fcntl(6, F_SETLKW, {l_type=F_UNLCK, l_whence=SEEK_SET, l_start=0, l_len=0}) = 0
+alarm(0)                                = 0
+rt_sigaction(SIGALRM, {sa_handler=0x7e5a828aaed0, sa_mask=[], sa_flags=SA_RESTORER, sa_restorer=0x7e5a8279a050}, {sa_handler=0x61f403f9d600, sa_mask=[], sa_flags=SA_RESTORER, sa_restorer=0x7e5a8279a050}, 8) = 0
+alarm(10)                               = 0
+fcntl(6, F_SETLKW, {l_type=F_RDLCK, l_whence=SEEK_SET, l_start=0, l_len=0}) = 0
+alarm(0)                                = 10
+rt_sigaction(SIGALRM, {sa_handler=0x61f403f9d600, sa_mask=[], sa_flags=SA_RESTORER, sa_restorer=0x7e5a8279a050}, NULL, 8) = 0
+pread64(6, "\7\0\0\0=Q\0\0pts/0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0"..., 384, 1536) = 384
+fcntl(6, F_SETLKW, {l_type=F_UNLCK, l_whence=SEEK_SET, l_start=0, l_len=0}) = 0
+alarm(0)                                = 0
+rt_sigaction(SIGALRM, {sa_handler=0x7e5a828aaed0, sa_mask=[], sa_flags=SA_RESTORER, sa_restorer=0x7e5a8279a050}, {sa_handler=0x61f403f9d600, sa_mask=[], sa_flags=SA_RESTORER, sa_restorer=0x7e5a8279a050}, 8) = 0
+alarm(10)                               = 0
+fcntl(6, F_SETLKW, {l_type=F_RDLCK, l_whence=SEEK_SET, l_start=0, l_len=0}) = 0
+alarm(0)                                = 10
+rt_sigaction(SIGALRM, {sa_handler=0x61f403f9d600, sa_mask=[], sa_flags=SA_RESTORER, sa_restorer=0x7e5a8279a050}, NULL, 8) = 0
+pread64(6, "\7\0\0\0006\30\0\0pts/1\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0"..., 384, 1920) = 384
+fcntl(6, F_SETLKW, {l_type=F_UNLCK, l_whence=SEEK_SET, l_start=0, l_len=0}) = 0
+alarm(0)                                = 0
+rt_sigaction(SIGALRM, {sa_handler=0x7e5a828aaed0, sa_mask=[], sa_flags=SA_RESTORER, sa_restorer=0x7e5a8279a050}, {sa_handler=0x61f403f9d600, sa_mask=[], sa_flags=SA_RESTORER, sa_restorer=0x7e5a8279a050}, 8) = 0
+alarm(10)                               = 0
+fcntl(6, F_SETLKW, {l_type=F_RDLCK, l_whence=SEEK_SET, l_start=0, l_len=0}) = 0
+alarm(0)                                = 10
+rt_sigaction(SIGALRM, {sa_handler=0x61f403f9d600, sa_mask=[], sa_flags=SA_RESTORER, sa_restorer=0x7e5a8279a050}, NULL, 8) = 0
+pread64(6, "\7\0\0\0>\373\0\0pts/3\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0"..., 384, 2304) = 384
+fcntl(6, F_SETLKW, {l_type=F_UNLCK, l_whence=SEEK_SET, l_start=0, l_len=0}) = 0
+alarm(0)                                = 0
+rt_sigaction(SIGALRM, {sa_handler=0x7e5a828aaed0, sa_mask=[], sa_flags=SA_RESTORER, sa_restorer=0x7e5a8279a050}, {sa_handler=0x61f403f9d600, sa_mask=[], sa_flags=SA_RESTORER, sa_restorer=0x7e5a8279a050}, 8) = 0
+alarm(10)                               = 0
+fcntl(6, F_SETLKW, {l_type=F_RDLCK, l_whence=SEEK_SET, l_start=0, l_len=0}) = 0
+alarm(0)                                = 10
+rt_sigaction(SIGALRM, {sa_handler=0x61f403f9d600, sa_mask=[], sa_flags=SA_RESTORER, sa_restorer=0x7e5a8279a050}, NULL, 8) = 0
+pread64(6, "\7\0\0\0\264\373\0\0pts/4\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0"..., 384, 2688) = 384
+fcntl(6, F_SETLKW, {l_type=F_UNLCK, l_whence=SEEK_SET, l_start=0, l_len=0}) = 0
+alarm(0)                                = 0
+rt_sigaction(SIGALRM, {sa_handler=0x7e5a828aaed0, sa_mask=[], sa_flags=SA_RESTORER, sa_restorer=0x7e5a8279a050}, {sa_handler=0x61f403f9d600, sa_mask=[], sa_flags=SA_RESTORER, sa_restorer=0x7e5a8279a050}, 8) = 0
+alarm(10)                               = 0
+fcntl(6, F_SETLKW, {l_type=F_RDLCK, l_whence=SEEK_SET, l_start=0, l_len=0}) = 0
+alarm(0)                                = 10
+rt_sigaction(SIGALRM, {sa_handler=0x61f403f9d600, sa_mask=[], sa_flags=SA_RESTORER, sa_restorer=0x7e5a8279a050}, NULL, 8) = 0
+pread64(6, "\7\0\0\0j\5\1\0pts/5\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0"..., 384, 3072) = 384
+fcntl(6, F_SETLKW, {l_type=F_UNLCK, l_whence=SEEK_SET, l_start=0, l_len=0}) = 0
+alarm(0)                                = 0
+rt_sigaction(SIGALRM, {sa_handler=0x7e5a828aaed0, sa_mask=[], sa_flags=SA_RESTORER, sa_restorer=0x7e5a8279a050}, {sa_handler=0x61f403f9d600, sa_mask=[], sa_flags=SA_RESTORER, sa_restorer=0x7e5a8279a050}, 8) = 0
+alarm(10)                               = 0
+fcntl(6, F_SETLKW, {l_type=F_RDLCK, l_whence=SEEK_SET, l_start=0, l_len=0}) = 0
+alarm(0)                                = 10
+rt_sigaction(SIGALRM, {sa_handler=0x61f403f9d600, sa_mask=[], sa_flags=SA_RESTORER, sa_restorer=0x7e5a8279a050}, NULL, 8) = 0
+pread64(6, "", 384, 3456)               = 0
+fcntl(6, F_SETLKW, {l_type=F_UNLCK, l_whence=SEEK_SET, l_start=0, l_len=0}) = 0
+close(6)                                = 0
+openat(AT_FDCWD, "/proc/loadavg", O_RDONLY) = 6
+newfstatat(6, "", {st_mode=S_IFREG|0444, st_size=0, ...}, AT_EMPTY_PATH) = 0
+read(6, "0.71 0.80 0.56 2/2020 82969\n", 1024) = 28
+close(6)                                = 0
+write(1, "\33[H\33(B\33[mtop - 13:58:52 up 3 day"..., 2048) = 2048
+write(1, "                           \33(B\33["..., 2048) = 2048
+write(1, "x_browser                       "..., 2048) = 2048
+write(1, "\33(B\33[m     11 root      20   0  "..., 2048) = 2048
+write(1, "                                "..., 1359) = 1359
+pselect6(1, [0], NULL, NULL, {tv_sec=3, tv_nsec=0}, {sigmask=[], sigsetsize=8^Cstrace: Process 82962 detached
+ <detached ...>
